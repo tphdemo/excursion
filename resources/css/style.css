@@ -9,6 +9,10 @@ h1 {
   font-size: 50px;
   font-weight: normal;
 }
+h1 {
+  font-size: 42px;
+  font-weight: 300;
+}
 
 p {
   color: grey;
@@ -18,4 +22,8 @@ p {
 .cta {
   font-size: 16px;
   color: Aquamarine;
+}
+
+.footer {
+  text-align: right;
 }
